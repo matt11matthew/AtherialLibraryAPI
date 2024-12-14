@@ -6,6 +6,7 @@
   <groupId>me.matthewe.atherialapi</groupId>
   <artifactId>parent</artifactId>
   <version>1.0.0</version>
+  <packaging>pom</packaging>
 
   <name>parent</name>
 
@@ -16,6 +17,7 @@
 
   <modules>
 
+    <module>plugin-config</module>
   </modules>
   <build>
 
